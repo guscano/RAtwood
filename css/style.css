@@ -1,0 +1,59 @@
+body {
+  font-size: 14px;
+}
+/*keeps size of font consistent throughout*/
+
+nav {
+  background color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+/* nav bar will be yellow with large font*/
+
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+/*placement of the section element*/
+
+h1 {
+  font-family sans-serif;
+  font-size: 2em;
+}
+/* characteristics of the h1 element*/
+
+.example, h3 {
+  padding-top: 30px;
+  text-align center
+}
+/* centering the example and h3 elements*/
+
+h3 {
+  font-size: 1.3em;
+}
+/* small font for the h3 element*/
+
+.element {
+  background-color: green;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
+/* large font and green background for element*/
+
+.nav-desktop .mobile-wrapper .header-cart_wrapper hidden-lg {
+  background-color: pink;
+}
+/* changes background of div to pink*/
+
+.nav-desktop .logo-wrapper {
+  background-color: red
+}
+/* changes the backround to red of this div*/
+
+.nav-desktop .main-menu-dropdown {
+  background-color: blue
+}
+/* changes the background of the main menu dropdown to blue*/
